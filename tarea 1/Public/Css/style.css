@@ -1,0 +1,33 @@
+/* sintaxis
+
+selector {
+propiedad: valor;
+}
+
+*/
+/* selector universal */
+# {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* selector de etiquetas */
+p {
+    color: red;
+}
+/* selector de clase */
+/* sintaxis del selector de clase
+
+.nombreDeLaClase {}
+
+*/
+.color-azul{
+    color: blue;
+}
+/* selctor de id */
+/* sintaxis de selector de id 
+
+/* ·nombreDeId  {}
+
+*/
+#titulo {
+    color: darkred;
+}
